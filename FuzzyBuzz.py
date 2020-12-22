@@ -1,3 +1,5 @@
+# 3 different variants to complete challenge.
+
 # for i in range(1,31):
 #     if i%15 == 0:
 #         print(i,'.', '\tFuzzy Buzz', sep='')
